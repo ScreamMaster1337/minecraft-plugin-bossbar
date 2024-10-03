@@ -1,0 +1,7 @@
+name: m4code-bossbar
+version: '${project.version}'
+main: pl.m4code.Main
+api-version: '1.16'
+author: ScreamMaster1337
+website: https://m4code.pl
+description: Plugin dodający bossbar do serwera.
